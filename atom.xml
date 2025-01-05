@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-05T09:28:36.656Z</updated>
+  <updated>2025-01-05T11:33:51.900Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2025/01/05/hello-world/"/>
     <id>http://example.com/2025/01/05/hello-world/</id>
     <published>2025-01-04T17:55:13.714Z</published>
-    <updated>2025-01-05T09:28:36.656Z</updated>
+    <updated>2025-01-05T11:33:51.900Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;#test&lt;br&gt;This is a test</summary>
+    <summary type="html">&lt;p&gt;这应该是第二次建立自己的博客了，第一次建立博客主要是测试VPS和走一下如何建立一个动态bolg的流程，但是没有输出太多。这一次用了Hexo+Github这种方式，更加简单和方便，专注于内容的输出，2025年的新年愿望就是能够每个月更新一篇技术方向的Blog，欢迎来玩。&lt;/p</summary>
         
       
     
