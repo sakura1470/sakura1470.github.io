@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lance&#39;Blog</title>
+  
+  
+  <link href="http://sakura1470.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://sakura1470.github.io/"/>
+  <updated>2025-03-21T17:28:58.384Z</updated>
+  <id>http://sakura1470.github.io/</id>
+  
+  <author>
+    <name>Lance Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sakura1470.github.io/2025/03/22/hello-world/"/>
+    <id>http://sakura1470.github.io/2025/03/22/hello-world/</id>
+    <published>2025-03-21T17:29:31.445Z</published>
+    <updated>2025-03-21T17:28:58.384Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这应该是第二次建立自己的博客了，这次是受了&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="About" scheme="http://sakura1470.github.io/tags/About/"/>
+    
+  </entry>
+  
+</feed>
